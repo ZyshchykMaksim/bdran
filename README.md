@@ -14,9 +14,9 @@ jQuery plugin  random background
 
 Warning: You need to connect [jquery-color](https://github.com/jquery/jquery-color)
 
-    <script src="~/Scripts/jquery-1.9.1.js"></script>
-    <script src="~/Scripts/BGRandom/jquery.color-2.1.2.min.js"></script>
-    <script src="~/Scripts/BGRandom/bgran.min.js"></script>
+    <script src="jquery-1.9.1.js"></script>
+    <script src="jquery.color-2.1.2.min.js"></script>
+    <script src="bgran.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
             $('body').bgran({
