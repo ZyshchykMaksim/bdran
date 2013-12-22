@@ -3,8 +3,11 @@ jQuery plugin  random background
 ### Options
 
  colors - Array colors
+ 
  images - Array images
+ 
  timeout - The timeout in milliseconds
+ 
  type - image or color (if 'color' is selected performed an array of colors, and then the 'image' - array image)
 
 ### Installation
