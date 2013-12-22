@@ -27,3 +27,8 @@ Warning: You need to connect [jquery-color](https://github.com/jquery/jquery-col
             });
         });
     </script>
+
+
+### License
+
+Zyshchyk Maksim is Copyright &copy; 2013  and is licensed under the terms of the [MIT License](http://www.opensource.org/licenses/mit-license.php).
